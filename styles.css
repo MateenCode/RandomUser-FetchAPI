@@ -1,0 +1,24 @@
+h1{
+  text-align: center;
+}
+
+.customers{
+display:flex;
+flex-direction: row;
+flex-wrap: wrap;
+justify-content: space-between;
+align-content: center;
+align-items: center;
+margin-top: 30px;
+text-align: center;
+}
+
+h2{
+  text-decoration: underline;
+  text-decoration-color: #5AB183;
+
+}
+
+img{
+  width: 200px;
+}
