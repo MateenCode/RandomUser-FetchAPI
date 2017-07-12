@@ -29,6 +29,8 @@
         individual.social = json.results[0].id.value
 
 
+
+
         let html = `
           <div class = "customer">
             <img class = "picture" src="${individual.picture}"></img>
