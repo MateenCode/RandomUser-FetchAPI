@@ -1,6 +1,6 @@
 # RandomUser-FetchAPI
 
-A simple fetch using a random user API that generates random users and there personal information. 
+A simple fetch using a random user API that generates random users and there personal information everytime you refresh the page.  
 
 # ScreenShot
 
