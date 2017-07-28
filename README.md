@@ -4,4 +4,4 @@ A simple fetch using a random user API that generates random users and there per
 
 # ScreenShot
 
-![65ab3f02-users](https://user-images.githubusercontent.com/28902787/28101947-81beae08-6691-11e7-9ff5-2a70c4213833.jpg)
+![jul-28-2017 16-39-56](https://user-images.githubusercontent.com/28902787/28737284-6deda0ee-73b3-11e7-93a5-96c9655dec3c.gif)
